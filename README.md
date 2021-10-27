@@ -12,7 +12,7 @@
 - > r= input("Masukan Jari-Jari:")
 ### "r" sendiri maksudnya adalah hanya sebuah variabel saja, untuk menyimpan data dari inputan
 - > luas= phi*int(r)*int(r)
-     kel= 2*phi*int(r)   
+- > kel= 2*phi*int(r)   
 ### Sedangkan "luas dan kel" disini juga sama hannya sebuah variabel, tapi datanya sebuah oprator yang befungsi untuk perhitungan sebuah program
 - > print("luas Lingkaran Adalah\t\t:",luas)
 - > print("Keliling Lingkaran Adalah\t:",kel)
